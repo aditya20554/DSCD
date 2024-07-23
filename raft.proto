@@ -1,0 +1,76 @@
+syntax = "proto3";
+
+package raft;
+
+// The RPC service definition for Raft.
+service RaftService {
+  // Sends a request vote message to a node.
+  rpc RequestVote(RequestVoteRequest) returns (RequestVoteResponse) {}
+
+  // Sends log entries to a node.
+  rpc AppendEntries(AppendEntriesRequest) returns (AppendEntriesResponse) {}
+
+  // RPC for serving client requests (GET/SET operations).
+  rpc ServeClient(ServeClientArgs) returns (ServeClientReply) {}
+
+  rpc FetchLogs(FetchLogsRequest) returns (FetchLogsResponse) {}
+  
+
+}
+
+// Message containing details for requesting a vote.
+message RequestVoteRequest {
+  int32 term = 1;
+  string candidateId = 2;
+  int32 lastLogIndex = 3;
+  int32 lastLogTerm = 4;
+}
+
+
+// Request message for fetching logs
+message FetchLogsRequest {}
+
+// Response message for fetching logs
+message FetchLogsResponse {
+  repeated LogEntry entries = 1;
+}
+// Message containing the response for a vote request.
+message RequestVoteResponse {
+  int32 term = 1;
+  bool voteGranted = 2;
+  int32 leaseDuration = 3; // For leader lease modification
+}
+
+// Message containing details for appending entries.
+message AppendEntriesRequest {
+  int32 term = 1;
+  string leaderId = 2;
+  int32 prevLogIndex = 3;
+  int32 prevLogTerm = 4;
+  repeated LogEntry entries = 5;
+  int32 leaderCommit = 6;
+  int32 leaseDuration = 7; // For leader lease modification
+}
+
+// An entry in the log.
+message LogEntry {
+  string command = 1; // Command for state machine
+  int32 term = 2;     // Term when entry was received by leader
+}
+
+// Message containing the response for an append entries request.
+message AppendEntriesResponse {
+  int32 term = 1;
+  bool success = 2;
+}
+
+message ServeClientArgs {
+  string Request = 1; // The client's request, which could be a GET or SET operation
+}
+
+message ServeClientReply {
+  string Data = 1;      // The response data for GET requests, or an acknowledgement for SET operations
+  string LeaderID = 2;  // The identifier of the leader node handling the request
+  bool Success = 3;     // A flag indicating if the request was successful
+  string ErrorMessage = 4; // Optional error message in case of failure
+}

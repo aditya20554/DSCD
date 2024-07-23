@@ -1,0 +1,1178 @@
+2024-03-31 16:53:29,921 - Time : 1711884209.921529 Node node_3 election timer timed out, Starting election.
+2024-03-31 16:53:29,921 - Time : 1711884209.921529 Node node_3 election timer timed out, Starting election.
+2024-03-31 16:53:29,959 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:53:29,959 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:53:29,959 - Node node_3 became the leader for term 2.
+2024-03-31 16:53:29,959 - Node node_3 became the leader for term 2.
+2024-03-31 16:53:29,959 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:53:29,959 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:53:42,589 - Time : 1711884222.589689 Node node_3 election timer timed out, Starting election.
+2024-03-31 16:53:42,589 - Time : 1711884222.589689 Node node_3 election timer timed out, Starting election.
+2024-03-31 16:53:42,666 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:53:42,666 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:53:42,666 - Node node_3 became the leader for term 7.
+2024-03-31 16:53:42,666 - Node node_3 became the leader for term 7.
+2024-03-31 16:53:42,667 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:53:42,667 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:53:42,717 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:53:42,717 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:53:56,056 - Time : 1711884236.05651 Node node_3 election timer timed out, Starting election.
+2024-03-31 16:53:56,056 - Time : 1711884236.05651 Node node_3 election timer timed out, Starting election.
+2024-03-31 16:53:56,095 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:53:56,095 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:53:56,096 - Node node_3 became the leader for term 12.
+2024-03-31 16:53:56,096 - Node node_3 became the leader for term 12.
+2024-03-31 16:53:56,096 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:53:56,096 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:53:56,145 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:53:56,145 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:54:02,790 - Time : 1711884242.790421 Node node_3 election timer timed out, Starting election.
+2024-03-31 16:54:02,790 - Time : 1711884242.790421 Node node_3 election timer timed out, Starting election.
+2024-03-31 16:54:02,843 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:54:02,843 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:54:02,843 - Node node_3 became the leader for term 14.
+2024-03-31 16:54:02,843 - Node node_3 became the leader for term 14.
+2024-03-31 16:54:02,844 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:54:02,844 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:54:02,896 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:54:02,896 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:54:05,030 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:54:05,030 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:54:05,030 - Node node_3 became the leader for term 15.
+2024-03-31 16:54:05,030 - Node node_3 became the leader for term 15.
+2024-03-31 16:54:05,030 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:54:05,030 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:54:05,086 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:54:05,086 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:54:15,679 - Time : 1711884255.679153 Node node_3 election timer timed out, Starting election.
+2024-03-31 16:54:15,679 - Time : 1711884255.679153 Node node_3 election timer timed out, Starting election.
+2024-03-31 16:54:15,747 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:54:15,747 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:54:15,748 - Node node_3 became the leader for term 18.
+2024-03-31 16:54:15,748 - Node node_3 became the leader for term 18.
+2024-03-31 16:54:15,748 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:54:15,748 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:54:15,824 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:54:15,824 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:54:21,654 - Time : 1711884261.654656 Node node_3 election timer timed out, Starting election.
+2024-03-31 16:54:21,654 - Time : 1711884261.654656 Node node_3 election timer timed out, Starting election.
+2024-03-31 16:54:21,717 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:54:21,717 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:54:21,717 - Node node_3 became the leader for term 19.
+2024-03-31 16:54:21,717 - Node node_3 became the leader for term 19.
+2024-03-31 16:54:21,718 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:54:21,718 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:54:21,823 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:54:21,823 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:54:29,679 - Time : 1711884269.6799538 Node node_3 election timer timed out, Starting election.
+2024-03-31 16:54:29,679 - Time : 1711884269.6799538 Node node_3 election timer timed out, Starting election.
+2024-03-31 16:54:29,736 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:54:29,736 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:54:29,736 - Node node_3 became the leader for term 22.
+2024-03-31 16:54:29,736 - Node node_3 became the leader for term 22.
+2024-03-31 16:54:29,736 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:54:29,736 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:54:29,784 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:54:29,784 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:54:30,787 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:54:30,787 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:54:30,788 - Node node_3 became the leader for term 23.
+2024-03-31 16:54:30,788 - Node node_3 became the leader for term 23.
+2024-03-31 16:54:30,788 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:54:30,788 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:54:30,849 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:54:30,849 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:54:43,676 - Time : 1711884283.676897 Node node_3 election timer timed out, Starting election.
+2024-03-31 16:54:43,676 - Time : 1711884283.676897 Node node_3 election timer timed out, Starting election.
+2024-03-31 16:54:43,750 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:54:43,750 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 16:54:43,750 - Node node_3 became the leader for term 25.
+2024-03-31 16:54:43,750 - Node node_3 became the leader for term 25.
+2024-03-31 16:54:43,751 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:54:43,751 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 16:54:43,828 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 16:54:43,828 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:08:05,614 - Time : 1711885085.6145012 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:08:05,614 - Time : 1711885085.6145012 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:08:05,686 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:08:05,686 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:08:05,686 - Node node_3 became the leader for term 3.
+2024-03-31 17:08:05,686 - Node node_3 became the leader for term 3.
+2024-03-31 17:08:05,687 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:08:05,687 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:08:06,772 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:08:06,772 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:08:06,772 - Node node_3 became the leader for term 4.
+2024-03-31 17:08:06,772 - Node node_3 became the leader for term 4.
+2024-03-31 17:08:06,772 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:08:06,772 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:08:06,833 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:08:06,833 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:08:22,312 - Time : 1711885102.3128011 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:08:22,312 - Time : 1711885102.3128011 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:08:22,358 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:08:22,358 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:08:22,358 - Node node_3 became the leader for term 9.
+2024-03-31 17:08:22,358 - Node node_3 became the leader for term 9.
+2024-03-31 17:08:22,358 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:08:22,358 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:08:22,427 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:08:22,427 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:19:43,992 - Time : 1711885783.992008 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:19:43,992 - Time : 1711885783.992008 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:19:51,025 - Time : 1711885791.02541 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:19:51,025 - Time : 1711885791.02541 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:19:51,083 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:19:51,083 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:19:51,083 - Node node_3 became the leader for term 4.
+2024-03-31 17:19:51,083 - Node node_3 became the leader for term 4.
+2024-03-31 17:19:51,084 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:19:51,084 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:02,392 - Time : 1711885802.392552 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:20:02,392 - Time : 1711885802.392552 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:20:02,438 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:02,438 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:02,438 - Node node_3 became the leader for term 7.
+2024-03-31 17:20:02,438 - Node node_3 became the leader for term 7.
+2024-03-31 17:20:02,438 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:02,438 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:02,483 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:02,483 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:03,487 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:03,487 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:03,487 - Node node_3 became the leader for term 8.
+2024-03-31 17:20:03,487 - Node node_3 became the leader for term 8.
+2024-03-31 17:20:03,487 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:03,487 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:03,537 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:03,537 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:10,023 - Time : 1711885810.02368 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:20:10,023 - Time : 1711885810.02368 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:20:10,107 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:10,107 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:10,108 - Node node_3 became the leader for term 9.
+2024-03-31 17:20:10,108 - Node node_3 became the leader for term 9.
+2024-03-31 17:20:10,108 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:10,108 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:10,173 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:10,173 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:12,364 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:12,364 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:12,365 - Node node_3 became the leader for term 10.
+2024-03-31 17:20:12,365 - Node node_3 became the leader for term 10.
+2024-03-31 17:20:12,365 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:12,365 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:12,409 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:12,409 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:29,002 - Time : 1711885829.0019689 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:20:29,002 - Time : 1711885829.0019689 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:20:29,035 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:29,035 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:29,035 - Node node_3 became the leader for term 14.
+2024-03-31 17:20:29,035 - Node node_3 became the leader for term 14.
+2024-03-31 17:20:29,035 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:29,035 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:29,072 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:29,072 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:30,121 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:30,121 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:30,121 - Node node_3 became the leader for term 15.
+2024-03-31 17:20:30,121 - Node node_3 became the leader for term 15.
+2024-03-31 17:20:30,121 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:30,121 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:30,141 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:30,141 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:42,146 - Time : 1711885842.145741 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:20:42,146 - Time : 1711885842.145741 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:20:42,172 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:42,172 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:42,173 - Node node_3 became the leader for term 18.
+2024-03-31 17:20:42,173 - Node node_3 became the leader for term 18.
+2024-03-31 17:20:42,173 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:42,173 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:42,209 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:42,209 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:48,920 - Time : 1711885848.92068 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:20:48,920 - Time : 1711885848.92068 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:20:48,975 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:48,975 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:48,976 - Node node_3 became the leader for term 20.
+2024-03-31 17:20:48,976 - Node node_3 became the leader for term 20.
+2024-03-31 17:20:48,976 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:48,976 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:49,029 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:49,029 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:58,102 - Time : 1711885858.101957 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:20:58,102 - Time : 1711885858.101957 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:20:58,152 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:58,152 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:20:58,152 - Node node_3 became the leader for term 24.
+2024-03-31 17:20:58,152 - Node node_3 became the leader for term 24.
+2024-03-31 17:20:58,153 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:58,153 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:20:58,203 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:20:58,203 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:21:10,736 - Time : 1711885870.736511 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:21:10,736 - Time : 1711885870.736511 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:21:10,756 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:21:10,756 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:21:10,756 - Node node_3 became the leader for term 27.
+2024-03-31 17:21:10,756 - Node node_3 became the leader for term 27.
+2024-03-31 17:21:10,757 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:21:10,757 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:21:10,774 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:21:10,774 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:21:25,225 - Time : 1711885885.225458 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:21:25,225 - Time : 1711885885.225458 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:21:25,274 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:21:25,274 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:21:25,274 - Node node_3 became the leader for term 32.
+2024-03-31 17:21:25,274 - Node node_3 became the leader for term 32.
+2024-03-31 17:21:25,275 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:21:25,275 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:21:25,341 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:21:25,341 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:21:36,385 - Time : 1711885896.3851688 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:21:36,385 - Time : 1711885896.3851688 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:21:36,440 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:21:36,440 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:21:36,440 - Node node_3 became the leader for term 36.
+2024-03-31 17:21:36,440 - Node node_3 became the leader for term 36.
+2024-03-31 17:21:36,441 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:21:36,441 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:21:36,522 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:21:36,522 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:21:47,598 - Time : 1711885907.598189 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:21:47,598 - Time : 1711885907.598189 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:21:47,670 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:21:47,670 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:21:47,670 - Node node_3 became the leader for term 40.
+2024-03-31 17:21:47,670 - Node node_3 became the leader for term 40.
+2024-03-31 17:21:47,671 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:21:47,671 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:21:47,716 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:21:47,716 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:21:59,963 - Time : 1711885919.9631512 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:21:59,963 - Time : 1711885919.9631512 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:22:09,502 - Time : 1711885929.502864 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:22:09,502 - Time : 1711885929.502864 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:22:09,521 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:22:09,521 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:22:09,521 - Node node_3 became the leader for term 46.
+2024-03-31 17:22:09,521 - Node node_3 became the leader for term 46.
+2024-03-31 17:22:09,521 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:22:09,521 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:22:09,522 - RPC error occurred when sending AppendEntries to node_0: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:50051: Failed to connect to remote host: Connection refused"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:50051: Failed to connect to remote host: Connection refused", grpc_status:14, created_time:"2024-03-31T17:22:09.522152+05:30"}"
+>
+2024-03-31 17:22:09,522 - RPC error occurred when sending AppendEntries to node_0: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:50051: Failed to connect to remote host: Connection refused"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:50051: Failed to connect to remote host: Connection refused", grpc_status:14, created_time:"2024-03-31T17:22:09.522152+05:30"}"
+>
+2024-03-31 17:22:09,540 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:22:09,540 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:22:10,544 - RPC error occurred when sending AppendEntries to node_0: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:50051: Failed to connect to remote host: Connection refused"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2024-03-31T17:22:10.54463+05:30", grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:50051: Failed to connect to remote host: Connection refused"}"
+>
+2024-03-31 17:22:10,544 - RPC error occurred when sending AppendEntries to node_0: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:50051: Failed to connect to remote host: Connection refused"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2024-03-31T17:22:10.54463+05:30", grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:50051: Failed to connect to remote host: Connection refused"}"
+>
+2024-03-31 17:22:10,545 - RPC error occurred when sending AppendEntries to node_1: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2024-03-31T17:22:10.545309+05:30", grpc_status:14, grpc_message:"Socket closed"}"
+>
+2024-03-31 17:22:10,545 - RPC error occurred when sending AppendEntries to node_1: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2024-03-31T17:22:10.545309+05:30", grpc_status:14, grpc_message:"Socket closed"}"
+>
+2024-03-31 17:22:11,552 - RPC error occurred when sending AppendEntries to node_0: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:50051: Failed to connect to remote host: Connection refused"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:50051: Failed to connect to remote host: Connection refused", grpc_status:14, created_time:"2024-03-31T17:22:11.552542+05:30"}"
+>
+2024-03-31 17:22:11,552 - RPC error occurred when sending AppendEntries to node_0: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:50051: Failed to connect to remote host: Connection refused"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:50051: Failed to connect to remote host: Connection refused", grpc_status:14, created_time:"2024-03-31T17:22:11.552542+05:30"}"
+>
+2024-03-31 17:22:11,553 - RPC error occurred when sending AppendEntries to node_1: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:50052: Failed to connect to remote host: Connection refused"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:50052: Failed to connect to remote host: Connection refused", grpc_status:14, created_time:"2024-03-31T17:22:11.553292+05:30"}"
+>
+2024-03-31 17:22:11,553 - RPC error occurred when sending AppendEntries to node_1: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:50052: Failed to connect to remote host: Connection refused"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:50052: Failed to connect to remote host: Connection refused", grpc_status:14, created_time:"2024-03-31T17:22:11.553292+05:30"}"
+>
+2024-03-31 17:22:11,553 - RPC error occurred when sending AppendEntries to node_2: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-03-31T17:22:11.553588+05:30"}"
+>
+2024-03-31 17:22:11,553 - RPC error occurred when sending AppendEntries to node_2: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Socket closed"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Socket closed", grpc_status:14, created_time:"2024-03-31T17:22:11.553588+05:30"}"
+>
+2024-03-31 17:26:32,999 - Time : 1711886192.99924 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:26:32,999 - Time : 1711886192.99924 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:26:33,046 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:26:33,046 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:26:33,046 - Node node_3 became the leader for term 2.
+2024-03-31 17:26:33,046 - Node node_3 became the leader for term 2.
+2024-03-31 17:26:33,047 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:26:33,047 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:26:45,116 - Time : 1711886205.116595 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:26:45,116 - Time : 1711886205.116595 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:26:45,159 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:26:45,159 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:26:45,159 - Node node_3 became the leader for term 6.
+2024-03-31 17:26:45,159 - Node node_3 became the leader for term 6.
+2024-03-31 17:26:45,160 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:26:45,160 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:26:45,239 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:26:45,239 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:26:47,329 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:26:47,329 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:26:47,329 - Node node_3 became the leader for term 7.
+2024-03-31 17:26:47,329 - Node node_3 became the leader for term 7.
+2024-03-31 17:26:47,329 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:26:47,329 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:26:47,398 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:26:47,398 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:26:53,120 - Time : 1711886213.120769 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:26:53,120 - Time : 1711886213.120769 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:26:53,212 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:26:53,212 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:26:53,212 - Node node_3 became the leader for term 9.
+2024-03-31 17:26:53,212 - Node node_3 became the leader for term 9.
+2024-03-31 17:26:53,212 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:26:53,212 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:26:53,280 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:26:53,280 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:26:55,374 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:26:55,374 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:26:55,375 - Node node_3 became the leader for term 10.
+2024-03-31 17:26:55,375 - Node node_3 became the leader for term 10.
+2024-03-31 17:26:55,375 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:26:55,375 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:26:55,449 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:26:55,449 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:27:04,724 - Time : 1711886224.724788 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:27:04,724 - Time : 1711886224.724788 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:27:04,765 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:27:04,765 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:27:04,765 - Node node_3 became the leader for term 13.
+2024-03-31 17:27:04,765 - Node node_3 became the leader for term 13.
+2024-03-31 17:27:04,765 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:27:04,765 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:27:04,794 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:27:04,794 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:27:12,143 - Time : 1711886232.143351 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:27:12,143 - Time : 1711886232.143351 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:27:12,169 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:27:12,169 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:27:12,169 - Node node_3 became the leader for term 16.
+2024-03-31 17:27:12,169 - Node node_3 became the leader for term 16.
+2024-03-31 17:27:12,170 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:27:12,170 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:27:12,204 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:27:12,204 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:27:19,831 - Time : 1711886239.831077 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:27:19,831 - Time : 1711886239.831077 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:27:19,868 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:27:19,868 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:27:19,868 - Node node_3 became the leader for term 18.
+2024-03-31 17:27:19,868 - Node node_3 became the leader for term 18.
+2024-03-31 17:27:19,868 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:27:19,868 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:27:19,916 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:27:19,916 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:27:33,302 - Time : 1711886253.3022442 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:27:33,302 - Time : 1711886253.3022442 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:27:33,345 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:27:33,345 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:27:33,345 - Node node_3 became the leader for term 23.
+2024-03-31 17:27:33,345 - Node node_3 became the leader for term 23.
+2024-03-31 17:27:33,345 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:27:33,345 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:27:33,382 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:27:33,382 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:27:38,432 - Time : 1711886258.4327009 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:27:38,432 - Time : 1711886258.4327009 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:27:38,531 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:27:38,531 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:27:38,531 - Node node_3 became the leader for term 24.
+2024-03-31 17:27:38,531 - Node node_3 became the leader for term 24.
+2024-03-31 17:27:38,531 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:27:38,531 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:27:38,585 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:27:38,585 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:27:47,335 - Time : 1711886267.335789 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:27:47,335 - Time : 1711886267.335789 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:27:47,381 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:27:47,381 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:27:47,381 - Node node_3 became the leader for term 28.
+2024-03-31 17:27:47,381 - Node node_3 became the leader for term 28.
+2024-03-31 17:27:47,382 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:27:47,382 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:27:47,417 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:27:47,417 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:27:55,093 - Time : 1711886275.0937831 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:27:55,093 - Time : 1711886275.0937831 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:27:55,121 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:27:55,121 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:27:55,122 - Node node_3 became the leader for term 30.
+2024-03-31 17:27:55,122 - Node node_3 became the leader for term 30.
+2024-03-31 17:27:55,122 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:27:55,122 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:27:55,178 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:27:55,178 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:28:01,059 - Time : 1711886281.0597491 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:28:01,059 - Time : 1711886281.0597491 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:28:12,570 - Time : 1711886292.570056 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:28:12,570 - Time : 1711886292.570056 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:28:12,584 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:28:12,584 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:28:12,584 - Node node_3 became the leader for term 35.
+2024-03-31 17:28:12,584 - Node node_3 became the leader for term 35.
+2024-03-31 17:28:12,585 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:28:12,585 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:28:12,621 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:28:12,621 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:28:26,047 - Time : 1711886306.047008 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:28:26,047 - Time : 1711886306.047008 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:28:26,068 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:28:26,068 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:28:26,068 - Node node_3 became the leader for term 39.
+2024-03-31 17:28:26,068 - Node node_3 became the leader for term 39.
+2024-03-31 17:28:26,068 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:28:26,068 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:28:26,106 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:28:26,106 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:28:36,583 - Time : 1711886316.5835268 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:28:36,583 - Time : 1711886316.5835268 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:28:36,658 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:28:36,658 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:28:36,658 - Node node_3 became the leader for term 43.
+2024-03-31 17:28:36,658 - Node node_3 became the leader for term 43.
+2024-03-31 17:28:36,659 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:28:36,659 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:28:36,727 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:28:36,727 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:28:48,890 - Time : 1711886328.8900638 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:28:48,890 - Time : 1711886328.8900638 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:28:48,931 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:28:48,931 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:28:48,931 - Node node_3 became the leader for term 46.
+2024-03-31 17:28:48,931 - Node node_3 became the leader for term 46.
+2024-03-31 17:28:48,931 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:28:48,931 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:28:48,979 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:28:48,979 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:28:56,965 - Time : 1711886336.964978 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:28:56,965 - Time : 1711886336.964978 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:28:56,997 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:28:56,997 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:28:56,997 - Node node_3 became the leader for term 49.
+2024-03-31 17:28:56,997 - Node node_3 became the leader for term 49.
+2024-03-31 17:28:56,998 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:28:56,998 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:28:57,035 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:28:57,035 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:29:02,786 - Time : 1711886342.7859159 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:29:02,786 - Time : 1711886342.7859159 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:29:02,845 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:29:02,845 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:29:02,845 - Node node_3 became the leader for term 51.
+2024-03-31 17:29:02,845 - Node node_3 became the leader for term 51.
+2024-03-31 17:29:02,845 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:29:02,845 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:29:02,984 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:29:02,984 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:29:05,108 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:29:05,108 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:29:05,108 - Node node_3 became the leader for term 52.
+2024-03-31 17:29:05,108 - Node node_3 became the leader for term 52.
+2024-03-31 17:29:05,108 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:29:05,108 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:29:05,152 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:29:05,152 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:29:21,978 - Time : 1711886361.9779708 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:29:21,978 - Time : 1711886361.9779708 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:29:22,060 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:29:22,060 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:29:22,060 - Node node_3 became the leader for term 57.
+2024-03-31 17:29:22,060 - Node node_3 became the leader for term 57.
+2024-03-31 17:29:22,061 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:29:22,061 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:29:22,117 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:29:22,117 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:29:27,420 - Time : 1711886367.420558 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:29:27,420 - Time : 1711886367.420558 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:29:27,481 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:29:27,481 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:29:27,481 - Node node_3 became the leader for term 60.
+2024-03-31 17:29:27,481 - Node node_3 became the leader for term 60.
+2024-03-31 17:29:27,481 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:29:27,481 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:29:27,542 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:29:27,542 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:29:31,896 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:29:31,896 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:29:31,898 - Node node_3 became the leader for term 61.
+2024-03-31 17:29:31,898 - Node node_3 became the leader for term 61.
+2024-03-31 17:29:31,898 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:29:31,898 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:29:31,954 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:29:31,954 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:29:40,256 - Time : 1711886380.256753 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:29:40,256 - Time : 1711886380.256753 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:29:40,291 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:29:40,291 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:29:40,291 - Node node_3 became the leader for term 63.
+2024-03-31 17:29:40,291 - Node node_3 became the leader for term 63.
+2024-03-31 17:29:40,291 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:29:40,291 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:29:40,334 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:29:40,334 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:31:31,165 - Time : 1711886491.165079 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:31:31,165 - Time : 1711886491.165079 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:31:31,215 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:31:31,215 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:31:31,216 - Node node_3 became the leader for term 2.
+2024-03-31 17:31:31,216 - Node node_3 became the leader for term 2.
+2024-03-31 17:31:31,216 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:31:31,216 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:31:44,860 - Time : 1711886504.8603609 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:31:44,860 - Time : 1711886504.8603609 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:31:55,275 - Time : 1711886515.2750049 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:31:55,275 - Time : 1711886515.2750049 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:31:55,295 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:31:55,295 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:31:55,295 - Node node_3 became the leader for term 8.
+2024-03-31 17:31:55,295 - Node node_3 became the leader for term 8.
+2024-03-31 17:31:55,296 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:31:55,296 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:31:55,326 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:31:55,326 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:32:11,905 - Time : 1711886531.9057229 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:32:11,905 - Time : 1711886531.9057229 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:32:11,952 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:32:11,952 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:32:11,952 - Node node_3 became the leader for term 13.
+2024-03-31 17:32:11,952 - Node node_3 became the leader for term 13.
+2024-03-31 17:32:11,953 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:32:11,953 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:32:11,982 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:32:11,982 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:32:18,071 - Time : 1711886538.0716858 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:32:18,071 - Time : 1711886538.0716858 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:32:18,117 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:32:18,117 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:32:18,118 - Node node_3 became the leader for term 16.
+2024-03-31 17:32:18,118 - Node node_3 became the leader for term 16.
+2024-03-31 17:32:18,118 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:32:18,118 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:32:18,186 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:32:18,186 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:32:35,455 - Time : 1711886555.455553 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:32:35,455 - Time : 1711886555.455553 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:32:35,523 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:32:35,523 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:32:35,523 - Node node_3 became the leader for term 21.
+2024-03-31 17:32:35,523 - Node node_3 became the leader for term 21.
+2024-03-31 17:32:35,524 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:32:35,524 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:32:35,678 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:32:35,678 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:32:52,556 - Time : 1711886572.556892 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:32:52,556 - Time : 1711886572.556892 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:32:52,578 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:32:52,578 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:32:52,578 - Node node_3 became the leader for term 26.
+2024-03-31 17:32:52,578 - Node node_3 became the leader for term 26.
+2024-03-31 17:32:52,578 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:32:52,578 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:32:52,614 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:32:52,614 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:04,545 - Time : 1711886584.544957 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:33:04,545 - Time : 1711886584.544957 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:33:04,609 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:04,609 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:04,609 - Node node_3 became the leader for term 29.
+2024-03-31 17:33:04,609 - Node node_3 became the leader for term 29.
+2024-03-31 17:33:04,610 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:04,610 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:04,672 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:04,672 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:07,917 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:07,917 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:07,917 - Node node_3 became the leader for term 30.
+2024-03-31 17:33:07,917 - Node node_3 became the leader for term 30.
+2024-03-31 17:33:07,917 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:07,917 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:07,989 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:07,989 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:15,637 - Time : 1711886595.6376479 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:33:15,637 - Time : 1711886595.6376479 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:33:21,030 - Time : 1711886601.0304708 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:33:21,030 - Time : 1711886601.0304708 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:33:21,091 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:21,091 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:21,092 - Node node_3 became the leader for term 33.
+2024-03-31 17:33:21,092 - Node node_3 became the leader for term 33.
+2024-03-31 17:33:21,092 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:21,092 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:21,159 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:21,159 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:30,627 - Time : 1711886610.626802 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:33:30,627 - Time : 1711886610.626802 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:33:30,689 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:30,689 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:30,689 - Node node_3 became the leader for term 37.
+2024-03-31 17:33:30,689 - Node node_3 became the leader for term 37.
+2024-03-31 17:33:30,690 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:30,690 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:30,766 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:30,766 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:42,484 - Time : 1711886622.484768 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:33:42,484 - Time : 1711886622.484768 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:33:42,541 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:42,541 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:42,541 - Node node_3 became the leader for term 40.
+2024-03-31 17:33:42,541 - Node node_3 became the leader for term 40.
+2024-03-31 17:33:42,541 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:42,541 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:42,591 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:42,591 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:44,743 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:44,743 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:44,743 - Node node_3 became the leader for term 41.
+2024-03-31 17:33:44,743 - Node node_3 became the leader for term 41.
+2024-03-31 17:33:44,744 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:44,744 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:44,805 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:44,805 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:51,466 - Time : 1711886631.466815 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:33:51,466 - Time : 1711886631.466815 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:33:51,509 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:51,509 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:51,509 - Node node_3 became the leader for term 43.
+2024-03-31 17:33:51,509 - Node node_3 became the leader for term 43.
+2024-03-31 17:33:51,510 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:51,510 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:51,566 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:51,566 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:53,688 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:53,688 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:53,689 - Node node_3 became the leader for term 44.
+2024-03-31 17:33:53,689 - Node node_3 became the leader for term 44.
+2024-03-31 17:33:53,689 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:53,689 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:53,746 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:53,746 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:59,566 - Time : 1711886639.566592 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:33:59,566 - Time : 1711886639.566592 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:33:59,598 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:59,598 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:33:59,598 - Node node_3 became the leader for term 46.
+2024-03-31 17:33:59,598 - Node node_3 became the leader for term 46.
+2024-03-31 17:33:59,599 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:59,599 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:33:59,641 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:33:59,641 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:34:11,064 - Time : 1711886651.064168 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:34:11,064 - Time : 1711886651.064168 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:34:11,117 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:34:11,117 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:34:11,117 - Node node_3 became the leader for term 50.
+2024-03-31 17:34:11,117 - Node node_3 became the leader for term 50.
+2024-03-31 17:34:11,118 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:34:11,118 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:34:11,166 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:34:11,166 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:34:13,282 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:34:13,282 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 17:34:13,282 - Node node_3 became the leader for term 51.
+2024-03-31 17:34:13,282 - Node node_3 became the leader for term 51.
+2024-03-31 17:34:13,282 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:34:13,282 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 17:34:13,345 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:34:13,345 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 17:34:23,836 - Time : 1711886663.836752 Node node_3 election timer timed out, Starting election.
+2024-03-31 17:34:23,836 - Time : 1711886663.836752 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:36:05,409 - Time : 1711893965.409375 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:36:05,409 - Time : 1711893965.409375 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:36:05,446 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:36:05,446 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:36:05,446 - Node node_3 became the leader for term 2.
+2024-03-31 19:36:05,446 - Node node_3 became the leader for term 2.
+2024-03-31 19:36:05,447 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:36:05,447 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:36:13,359 - Time : 1711893973.359532 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:36:13,359 - Time : 1711893973.359532 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:36:13,427 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:36:13,427 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:36:13,427 - Node node_3 became the leader for term 4.
+2024-03-31 19:36:13,427 - Node node_3 became the leader for term 4.
+2024-03-31 19:36:13,428 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:36:13,428 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:36:13,474 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:36:13,474 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:36:14,513 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:36:14,513 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:36:14,514 - Node node_3 became the leader for term 5.
+2024-03-31 19:36:14,514 - Node node_3 became the leader for term 5.
+2024-03-31 19:36:14,514 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:36:14,514 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:36:14,584 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:36:14,584 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:36:20,544 - Time : 1711893980.543974 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:36:20,544 - Time : 1711893980.543974 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:36:20,619 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:36:20,619 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:36:20,619 - Node node_3 became the leader for term 7.
+2024-03-31 19:36:20,619 - Node node_3 became the leader for term 7.
+2024-03-31 19:36:20,619 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:36:20,619 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:36:20,680 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:36:20,680 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:36:30,989 - Time : 1711893990.989365 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:36:30,989 - Time : 1711893990.989365 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:36:31,014 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:36:31,014 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:36:31,014 - Node node_3 became the leader for term 11.
+2024-03-31 19:36:31,014 - Node node_3 became the leader for term 11.
+2024-03-31 19:36:31,014 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:36:31,014 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:36:31,065 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:36:31,065 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:36:48,018 - Time : 1711894008.01795 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:36:48,018 - Time : 1711894008.01795 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:36:48,053 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:36:48,053 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:36:48,053 - Node node_3 became the leader for term 16.
+2024-03-31 19:36:48,053 - Node node_3 became the leader for term 16.
+2024-03-31 19:36:48,054 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:36:48,054 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:36:48,116 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:36:48,116 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:36:58,558 - Time : 1711894018.55827 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:36:58,558 - Time : 1711894018.55827 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:36:58,608 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:36:58,608 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:36:58,608 - Node node_3 became the leader for term 19.
+2024-03-31 19:36:58,608 - Node node_3 became the leader for term 19.
+2024-03-31 19:36:58,609 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:36:58,609 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:36:58,678 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:36:58,678 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:37:00,884 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:37:00,884 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:37:00,885 - Node node_3 became the leader for term 20.
+2024-03-31 19:37:00,885 - Node node_3 became the leader for term 20.
+2024-03-31 19:37:00,885 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:37:00,885 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:37:00,944 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:37:00,944 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:37:07,852 - Time : 1711894027.8524852 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:37:07,852 - Time : 1711894027.8524852 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:37:07,867 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:37:07,867 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:37:07,867 - Node node_3 became the leader for term 22.
+2024-03-31 19:37:07,867 - Node node_3 became the leader for term 22.
+2024-03-31 19:37:07,868 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:37:07,868 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:37:07,931 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:37:07,931 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:37:17,566 - Time : 1711894037.565724 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:37:17,566 - Time : 1711894037.565724 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:37:17,614 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:37:17,614 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:37:17,614 - Node node_3 became the leader for term 26.
+2024-03-31 19:37:17,614 - Node node_3 became the leader for term 26.
+2024-03-31 19:37:17,614 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:37:17,614 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:37:17,668 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:37:17,668 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:37:26,109 - Time : 1711894046.109781 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:37:26,109 - Time : 1711894046.109781 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:37:26,150 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:37:26,150 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:37:26,150 - Node node_3 became the leader for term 28.
+2024-03-31 19:37:26,150 - Node node_3 became the leader for term 28.
+2024-03-31 19:37:26,151 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:37:26,151 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:37:26,219 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:37:26,219 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:37:27,268 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:37:27,268 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:37:27,269 - Node node_3 became the leader for term 29.
+2024-03-31 19:37:27,269 - Node node_3 became the leader for term 29.
+2024-03-31 19:37:27,269 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:37:27,269 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:37:39,982 - Time : 1711894059.9824698 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:37:39,982 - Time : 1711894059.9824698 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:37:40,006 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:37:40,006 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:37:40,007 - Node node_3 became the leader for term 32.
+2024-03-31 19:37:40,007 - Node node_3 became the leader for term 32.
+2024-03-31 19:37:40,009 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:37:40,009 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:37:40,030 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:37:40,030 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:37:40,030 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:37:40,030 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:37:46,125 - Time : 1711894066.125489 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:37:46,125 - Time : 1711894066.125489 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:37:46,183 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:37:46,183 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:37:46,183 - Node node_3 became the leader for term 34.
+2024-03-31 19:37:46,183 - Node node_3 became the leader for term 34.
+2024-03-31 19:37:46,184 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:37:46,184 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:37:46,247 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:37:46,247 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:37:57,499 - Time : 1711894077.4990568 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:37:57,499 - Time : 1711894077.4990568 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:37:57,519 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:37:57,519 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:37:57,519 - Node node_3 became the leader for term 39.
+2024-03-31 19:37:57,519 - Node node_3 became the leader for term 39.
+2024-03-31 19:37:57,520 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:37:57,520 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:37:57,563 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:37:57,563 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:38:21,815 - Time : 1711894101.815656 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:38:21,815 - Time : 1711894101.815656 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:38:21,854 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:38:21,854 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:38:21,854 - Node node_3 became the leader for term 45.
+2024-03-31 19:38:21,854 - Node node_3 became the leader for term 45.
+2024-03-31 19:38:21,854 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:38:21,854 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:38:21,898 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:38:21,898 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:38:28,615 - Time : 1711894108.615187 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:38:28,615 - Time : 1711894108.615187 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:38:28,678 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:38:28,678 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:38:28,678 - Node node_3 became the leader for term 48.
+2024-03-31 19:38:28,678 - Node node_3 became the leader for term 48.
+2024-03-31 19:38:28,678 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:38:28,678 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:38:28,722 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:38:28,722 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:38:37,234 - Time : 1711894117.2343569 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:38:37,234 - Time : 1711894117.2343569 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:38:37,280 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:38:37,280 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:38:37,281 - Node node_3 became the leader for term 50.
+2024-03-31 19:38:37,281 - Node node_3 became the leader for term 50.
+2024-03-31 19:38:37,281 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:38:37,281 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:38:37,300 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:38:37,300 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:38:43,023 - Time : 1711894123.0230248 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:38:43,023 - Time : 1711894123.0230248 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:38:43,092 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:38:43,092 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:38:43,092 - Node node_3 became the leader for term 52.
+2024-03-31 19:38:43,092 - Node node_3 became the leader for term 52.
+2024-03-31 19:38:43,092 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:38:43,092 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:38:43,135 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:38:43,135 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:38:54,002 - Time : 1711894134.0021398 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:38:54,002 - Time : 1711894134.0021398 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:38:54,041 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:38:54,041 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:38:54,042 - Node node_3 became the leader for term 56.
+2024-03-31 19:38:54,042 - Node node_3 became the leader for term 56.
+2024-03-31 19:38:54,042 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:38:54,042 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:38:54,085 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:38:54,085 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:06,801 - Time : 1711894146.801159 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:39:06,801 - Time : 1711894146.801159 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:39:06,851 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:06,851 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:06,851 - Node node_3 became the leader for term 60.
+2024-03-31 19:39:06,851 - Node node_3 became the leader for term 60.
+2024-03-31 19:39:06,851 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:06,851 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:06,944 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:06,944 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:07,951 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:07,951 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:07,951 - Node node_3 became the leader for term 61.
+2024-03-31 19:39:07,951 - Node node_3 became the leader for term 61.
+2024-03-31 19:39:07,951 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:07,951 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:13,926 - Time : 1711894153.92622 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:39:13,926 - Time : 1711894153.92622 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:39:13,977 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:13,977 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:13,978 - Node node_3 became the leader for term 62.
+2024-03-31 19:39:13,978 - Node node_3 became the leader for term 62.
+2024-03-31 19:39:13,979 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:13,979 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:14,039 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:14,039 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:14,039 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:14,039 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:19,590 - Time : 1711894159.5899851 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:39:19,590 - Time : 1711894159.5899851 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:39:19,649 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:19,649 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:19,649 - Node node_3 became the leader for term 65.
+2024-03-31 19:39:19,649 - Node node_3 became the leader for term 65.
+2024-03-31 19:39:19,650 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:19,650 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:19,708 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:19,708 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:21,869 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:21,869 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:21,870 - Node node_3 became the leader for term 66.
+2024-03-31 19:39:21,870 - Node node_3 became the leader for term 66.
+2024-03-31 19:39:21,870 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:21,870 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:21,950 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:21,950 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:27,865 - Time : 1711894167.86568 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:39:27,865 - Time : 1711894167.86568 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:39:27,935 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:27,935 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:27,936 - Node node_3 became the leader for term 67.
+2024-03-31 19:39:27,936 - Node node_3 became the leader for term 67.
+2024-03-31 19:39:27,936 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:27,936 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:28,002 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:28,002 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:31,267 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:31,267 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:31,268 - Node node_3 became the leader for term 68.
+2024-03-31 19:39:31,268 - Node node_3 became the leader for term 68.
+2024-03-31 19:39:31,269 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:31,269 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:43,183 - Time : 1711894183.1836958 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:39:43,183 - Time : 1711894183.1836958 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:39:43,249 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:43,249 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:43,249 - Node node_3 became the leader for term 70.
+2024-03-31 19:39:43,249 - Node node_3 became the leader for term 70.
+2024-03-31 19:39:43,250 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:43,250 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:43,315 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:43,315 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:43,315 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:43,315 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:45,426 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:45,426 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:45,427 - Node node_3 became the leader for term 72.
+2024-03-31 19:39:45,427 - Node node_3 became the leader for term 72.
+2024-03-31 19:39:45,427 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:45,427 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:51,852 - Time : 1711894191.851587 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:39:51,852 - Time : 1711894191.851587 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:39:57,762 - Time : 1711894197.76236 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:39:57,762 - Time : 1711894197.76236 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:39:57,837 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:57,837 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:39:57,837 - Node node_3 became the leader for term 75.
+2024-03-31 19:39:57,837 - Node node_3 became the leader for term 75.
+2024-03-31 19:39:57,837 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:57,837 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:39:57,917 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:57,917 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:57,917 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:39:57,917 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:40:01,200 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:40:01,200 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:40:01,201 - Node node_3 became the leader for term 76.
+2024-03-31 19:40:01,201 - Node node_3 became the leader for term 76.
+2024-03-31 19:40:01,201 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:40:01,201 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:40:01,267 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:40:01,267 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:40:11,229 - Time : 1711894211.229089 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:40:11,229 - Time : 1711894211.229089 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:40:11,298 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:40:11,298 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:40:11,298 - Node node_3 became the leader for term 79.
+2024-03-31 19:40:11,298 - Node node_3 became the leader for term 79.
+2024-03-31 19:40:11,299 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:40:11,299 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:40:11,356 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:40:11,356 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:40:23,223 - Time : 1711894223.22308 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:40:23,223 - Time : 1711894223.22308 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:40:23,269 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:40:23,269 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:40:23,269 - Node node_3 became the leader for term 82.
+2024-03-31 19:40:23,269 - Node node_3 became the leader for term 82.
+2024-03-31 19:40:23,269 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:40:23,269 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:40:23,318 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:40:23,318 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:40:25,424 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:40:25,424 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:40:25,425 - Node node_3 became the leader for term 83.
+2024-03-31 19:40:25,425 - Node node_3 became the leader for term 83.
+2024-03-31 19:40:25,425 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:40:25,425 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:40:25,485 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:40:25,485 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:40:31,943 - Time : 1711894231.943365 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:40:31,943 - Time : 1711894231.943365 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:40:32,013 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:40:32,013 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:40:32,013 - Node node_3 became the leader for term 85.
+2024-03-31 19:40:32,013 - Node node_3 became the leader for term 85.
+2024-03-31 19:40:32,014 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:40:32,014 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:40:32,084 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:40:32,084 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:40:33,125 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:40:33,125 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:40:33,125 - Node node_3 became the leader for term 86.
+2024-03-31 19:40:33,125 - Node node_3 became the leader for term 86.
+2024-03-31 19:40:33,125 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:40:33,125 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:40:33,193 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:40:33,193 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:40:50,042 - Time : 1711894250.0428412 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:40:50,042 - Time : 1711894250.0428412 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:40:50,148 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:40:50,148 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:40:50,148 - Node node_3 became the leader for term 91.
+2024-03-31 19:40:50,148 - Node node_3 became the leader for term 91.
+2024-03-31 19:40:50,149 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:40:50,149 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:40:50,204 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:40:50,204 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:40:57,412 - Time : 1711894257.412799 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:40:57,412 - Time : 1711894257.412799 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:40:57,471 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:40:57,471 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:40:57,471 - Node node_3 became the leader for term 92.
+2024-03-31 19:40:57,471 - Node node_3 became the leader for term 92.
+2024-03-31 19:40:57,471 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:40:57,471 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:40:57,553 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:40:57,553 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:41:08,065 - Time : 1711894268.065106 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:41:08,065 - Time : 1711894268.065106 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:41:08,116 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:41:08,116 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:41:08,116 - Node node_3 became the leader for term 96.
+2024-03-31 19:41:08,116 - Node node_3 became the leader for term 96.
+2024-03-31 19:41:08,116 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:41:08,116 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:41:08,192 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:41:08,192 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:41:10,306 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:41:10,306 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:41:10,306 - Node node_3 became the leader for term 97.
+2024-03-31 19:41:10,306 - Node node_3 became the leader for term 97.
+2024-03-31 19:41:10,306 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:41:10,306 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:41:10,382 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:41:10,382 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:49:48,690 - Time : 1711894788.690707 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:49:48,690 - Time : 1711894788.690707 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:49:48,713 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:49:48,713 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:49:48,713 - Node node_3 became the leader for term 4.
+2024-03-31 19:49:48,713 - Node node_3 became the leader for term 4.
+2024-03-31 19:49:48,714 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:49:48,714 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:49:59,418 - Time : 1711894799.418419 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:49:59,418 - Time : 1711894799.418419 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:49:59,483 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:49:59,483 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:49:59,484 - Node node_3 became the leader for term 7.
+2024-03-31 19:49:59,484 - Node node_3 became the leader for term 7.
+2024-03-31 19:49:59,485 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:49:59,485 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:49:59,543 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:49:59,543 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:50:01,696 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:50:01,696 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:50:01,696 - Node node_3 became the leader for term 8.
+2024-03-31 19:50:01,696 - Node node_3 became the leader for term 8.
+2024-03-31 19:50:01,696 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:50:01,696 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:50:01,752 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:50:01,752 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:50:08,767 - Time : 1711894808.767645 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:50:08,767 - Time : 1711894808.767645 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:50:08,814 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:50:08,814 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:50:08,814 - Node node_3 became the leader for term 10.
+2024-03-31 19:50:08,814 - Node node_3 became the leader for term 10.
+2024-03-31 19:50:08,815 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:50:08,815 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:50:08,902 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:50:08,902 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:50:17,029 - Time : 1711894817.028886 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:50:17,029 - Time : 1711894817.028886 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:50:17,079 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:50:17,079 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:50:17,079 - Node node_3 became the leader for term 13.
+2024-03-31 19:50:17,079 - Node node_3 became the leader for term 13.
+2024-03-31 19:50:17,079 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:50:17,079 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:50:17,131 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:50:17,131 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:50:28,408 - Time : 1711894828.408648 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:50:28,408 - Time : 1711894828.408648 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:50:28,478 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:50:28,478 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:50:28,478 - Node node_3 became the leader for term 15.
+2024-03-31 19:50:28,478 - Node node_3 became the leader for term 15.
+2024-03-31 19:50:28,479 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:50:28,479 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:50:28,533 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:50:28,533 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:50:36,042 - Time : 1711894836.042548 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:50:36,042 - Time : 1711894836.042548 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:50:36,063 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:50:36,063 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:50:36,063 - Node node_3 became the leader for term 19.
+2024-03-31 19:50:36,063 - Node node_3 became the leader for term 19.
+2024-03-31 19:50:36,064 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:50:36,064 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:50:36,088 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:50:36,088 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:50:51,539 - Time : 1711894851.539144 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:50:51,539 - Time : 1711894851.539144 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:50:51,560 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:50:51,560 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:50:51,560 - Node node_3 became the leader for term 23.
+2024-03-31 19:50:51,560 - Node node_3 became the leader for term 23.
+2024-03-31 19:50:51,560 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:50:51,560 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:50:51,611 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:50:51,611 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:51:06,353 - Time : 1711894866.353516 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:51:06,353 - Time : 1711894866.353516 Node node_3 election timer timed out, Starting election.
+2024-03-31 19:51:06,386 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:51:06,386 - New Leader waiting for Old Leader Lease to timeout.
+2024-03-31 19:51:06,386 - Node node_3 became the leader for term 29.
+2024-03-31 19:51:06,386 - Node node_3 became the leader for term 29.
+2024-03-31 19:51:06,386 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:51:06,386 - Leader node_3 sending heartbeat & Renewing Lease
+2024-03-31 19:51:06,428 - Node node_3 (follower) committed the entry NO-OP to the state machine.
+2024-03-31 19:51:06,428 - Node node_3 (follower) committed the entry NO-OP to the state machine.
